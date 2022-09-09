@@ -10,7 +10,7 @@
       </b-dropdown>
     </v-col>
 
-    <h3 class="col text-light">Sample Page</h3>
+    <h3 className="col text-light">Sample Page</h3>
 
   </v-row>
 </template>
